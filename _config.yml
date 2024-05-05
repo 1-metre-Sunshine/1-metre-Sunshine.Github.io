@@ -7,7 +7,7 @@ url: https://1-metre-sunshine.github.io # 网站的基本 URL，用于构建绝�
 repository: 1-metre-sunshine/1-metre-sunshine.github.io # 你的 GitHub 仓库名称，用于生成编辑链接
 
 # 构建设置
-theme: jekyll-theme-minimal # 网站使用的主题，可以根据自己的喜好选择
+theme: jekyll-theme-cayman # 网站使用的主题，可以根据自己的喜好选择
 markdown: kramdown # Markdown 渲染器
 plugins: # 插件配置
   - jekyll-feed # Jekyll 提供的插件，用于生成 RSS 订阅
