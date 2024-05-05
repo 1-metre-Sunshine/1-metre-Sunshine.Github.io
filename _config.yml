@@ -1,0 +1,36 @@
+# 网站设置
+title: Your Website Title
+description: Your Website Description
+url: https://1-metre-sunshine.github.io # 网站的基本 URL，用于构建绝对链接
+
+# 仓库设置
+repository: 1-metre-sunshine/1-metre-sunshine.github.io # 你的 GitHub 仓库名称，用于生成编辑链接
+
+# 构建设置
+theme: jekyll-theme-minimal # 网站使用的主题，可以根据自己的喜好选择
+markdown: kramdown # Markdown 渲染器
+plugins: # 插件配置
+  - jekyll-feed # Jekyll 提供的插件，用于生成 RSS 订阅
+
+# 导航栏设置
+navbar_links:
+  - text: Home
+    url: /
+  - text: About
+    url: /about.html
+  - text: Projects
+    url: /projects.html
+  # 添加更多导航链接，根据需要进行修改
+
+# 社交媒体链接
+social:
+  - title: GitHub
+    url: https://github.com/1-metre-sunshine
+  # 添加更多社交媒体链接，根据需要进行修改
+
+# 作者信息
+author:
+  name: Your Name
+  bio: Web Developer & Designer
+  email: your@email.com
+  # 添加更多作者信息，根据需要进行修改
